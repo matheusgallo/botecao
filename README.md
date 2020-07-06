@@ -1,6 +1,6 @@
 # botecao
 
-A new Flutter project.
+Botecão Flutter project.
 
 ## Getting Started
 
